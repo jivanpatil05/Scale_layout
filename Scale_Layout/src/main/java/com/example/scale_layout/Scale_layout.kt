@@ -1,4 +1,4 @@
-package com.example.scale_layout_jetpackcompose.ui.theme
+package com.example.scale_layout
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
@@ -361,8 +361,3 @@ fun HeightScaleV(
         Spacer(modifier = Modifier.weight(1f))
     }
 }
-
-
-
-
-
